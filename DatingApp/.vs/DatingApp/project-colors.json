@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c2236141-1921-4f8e-afce-beba285e944c": {
+      "ProjectGuid": "c2236141-1921-4f8e-afce-beba285e944c",
+      "DisplayName": "DatingApp.Api",
+      "ColorIndex": 0
+    },
+    "449d1772-7212-45d8-bcce-7c9495f84b1c": {
+      "ProjectGuid": "449d1772-7212-45d8-bcce-7c9495f84b1c",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
